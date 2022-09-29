@@ -1,0 +1,22 @@
+.img {
+    cursor: pointer;
+}
+
+.title a {
+    cursor: pointer;
+    color: grey;
+    text-decoration: none;
+}
+
+.title a:hover {
+    color: orangered;
+}
+
+
+.author {
+    cursor: pointer;
+}
+
+.author:hover {
+    color: orangered;
+}

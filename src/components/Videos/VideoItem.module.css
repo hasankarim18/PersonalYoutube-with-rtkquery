@@ -1,0 +1,36 @@
+.videoItem {
+    transition: 0.3s;
+}
+
+.videoItem a {
+    text-decoration: none !important;
+    transition: 0.1s;
+}
+
+.videoItem a:hover {
+    text-decoration: none !important;
+    color: #E30E00 !important;
+}
+
+
+
+
+
+.videoItem:hover {
+    scale: 1.06;
+    cursor: pointer;
+    z-index: 99;
+}
+
+.thumnail {
+    cursor: pointer;
+}
+
+
+.title:hover {
+    color: #E30E00;
+}
+
+.author:hover {
+    color: yellowgreen;
+}
