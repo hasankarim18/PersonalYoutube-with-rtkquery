@@ -6,8 +6,8 @@ import Videos from './components/Videos/Videos';
 import NotFound from './pages/NotFound';
 import User from './pages/User';
 import VideoPage from './pages/VideoPage';
-import AddVideo from './add/AddVideo';
-import Edit from './edit/Edit';
+import AddVideo from './components/add/AddVideo'
+import Edit from './components/edit/Edit'
 
 function App() {
   return (

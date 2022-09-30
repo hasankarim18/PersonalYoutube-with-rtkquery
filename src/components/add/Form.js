@@ -1,11 +1,12 @@
 import React from 'react'
-import Success from '../ui/Success'
+
 
 const Form = () => {
     return (
         <div className="pt-5">
+
             <div className="container">
-                <h5 className="text-start">Edit Your Video Details:</h5>
+                <h5 className="text-start">Add item to your video collection</h5>
                 <div className="row">
                     <div className="col-12 col-sm-10 col-md-8">
                         <div className="add_form text-start">

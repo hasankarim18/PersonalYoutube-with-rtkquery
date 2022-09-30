@@ -1,13 +1,11 @@
 import React from 'react'
-import Error from '../ui/Error'
-import Success from '../ui/Success'
+
 
 const Form = () => {
     return (
         <div className="pt-5">
-
             <div className="container">
-                <h5 className="text-start">Add item to your video collection</h5>
+                <h5 className="text-start">Edit Your Video Details:</h5>
                 <div className="row">
                     <div className="col-12 col-sm-10 col-md-8">
                         <div className="add_form text-start">
@@ -49,7 +47,7 @@ const Form = () => {
                                 </div>
                             </form>
                         </div>
-                        <Success message="Video added successfully" />
+
                     </div>
                 </div>
             </div>

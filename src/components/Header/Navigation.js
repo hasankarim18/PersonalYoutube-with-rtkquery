@@ -26,7 +26,7 @@ const Navigation = () => {
                 <div className="d-flex">
                     <div><span style={{ fontSize: "30px" }}>My Tube</span> </div>
                     <div className="d-flex align-items-end ms-2 text-info">
-                        <span>Rtk Toolkit</span>
+                        <span>Rtk Query</span>
                     </div>
                 </div>
 
